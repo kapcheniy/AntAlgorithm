@@ -15,6 +15,5 @@ The Ant Colony Optimization (ACO) algorithm is a metaheuristic optimization meth
 ## Installation
 
 1. Clone the repository:
-``bash
  git clone https://github.com/kapcheniy/AntAlgorithm.git
  cd AntAlgorithm
